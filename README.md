@@ -1,2 +1,2 @@
 # Qt-learning
-Learning how to work with Qt
+Projects in which I learn how to work with [Qt](https://www.qt.io/)
